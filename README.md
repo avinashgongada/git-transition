@@ -1,0 +1,2 @@
+# git-transition
+trasition properties
